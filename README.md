@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-journey/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Beautiful Journey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-journey/) |
+| **Get License** | [Get a Licensing Quote for Beautiful Journey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-journey/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat when you look my way
+> Like a summer wind at the end of the day
+> We can let the whole world fade out of sight
+> Starting this beautiful journey tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
